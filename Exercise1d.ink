@@ -40,7 +40,7 @@ As you run down the maze you noticed { advance_time() } -> maze
 As you run down the maze you noticed { advance_time() } -> maze
 
 == Free ==
-Made it out :)
+As you walk through door, you the sweet sunlight, and noticed the monster won't follow you outside, it must not like the sunlight, but finally you made it out.
 -> END
 
 == caught ==
